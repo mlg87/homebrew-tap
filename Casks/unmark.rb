@@ -5,7 +5,7 @@ cask "unmark" do
   url "https://github.com/mlg87/unmark/releases/download/v#{version}/Unmark-#{version}.dmg"
   name "Unmark"
   desc "Lightweight GitHub-flavored markdown viewer and editor"
-  homepage "https://unmarkeditor.com"
+  homepage "https://unmarkeditor.com/"
 
   livecheck do
     url :url
