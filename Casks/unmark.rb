@@ -1,6 +1,6 @@
 cask "unmark" do
-  version "0.2.0"
-  sha256 "485d0368e30d06e5af4dde02b8dd783f7fc3bf3391972fde33a9802252b1b9cf"
+  version "0.3.0"
+  sha256 "a79237965bfb33febf388dfbf215de9fc47ef97d5547d46e179ea0f24c4fca17"
 
   url "https://github.com/mlg87/unmark/releases/download/v#{version}/Unmark-#{version}.dmg"
   name "Unmark"
